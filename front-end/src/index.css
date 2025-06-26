@@ -1,4 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
 @import "tailwindcss";
-.active hr{
-    @apply block
+
+*{
+  font-family:Outfit ;
 }
+  .underline {
+    height: 2px;
+    background-color: #5F6FFF; /* Blue underline color */
+    width: 0; /* Hidden by default */
+    transition: width 0.3s ease; /* Smooth animation for underline */
+    margin-top: 2px; /* Space between the text and the underline */
+  }
+  .active-link .underline {
+    width: 100%; /* Make the underline span the full width of the text */
+  }
+  ::-webkit-scrollbar{
+    @apply hidden
+  }

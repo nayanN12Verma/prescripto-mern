@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -10,3 +11,7 @@ Currently, two official plugins are available:
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+=======
+# Prescripto-Mern-
+🩺 Prescripto – Smart Healthcare Appointment System Prescripto is a full-stack healthcare platform built using the MERN stack that streamlines appointment booking and payments for both patients and doctors. The platform features two distinct interfaces tailored for doctors and patients, ensuring a smooth and user-friendly experience for both.
+>>>>>>> 3f038e924dbe922702a49ca94b53ed42dfcb3b9c
