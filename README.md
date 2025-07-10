@@ -6,9 +6,9 @@
 
 ## 🚀 Live Demo
 
-🔗 [Live Website](https://your-live-link.com)
-📂 [Frontend GitHub](https://github.com/yourusername/prescripto-frontend)
-📂 [Backend GitHub](https://github.com/yourusername/prescripto-backend)
+🔗 [Live Website](https://lnkd.in/gV39sDhn)
+📂 [Frontend GitHub](https://github.com/nayanN12Verma/prescripto-frontend)
+📂 [Backend GitHub](https://github.com/nayanN12Verma/prescripto-backend)
 
 ---
 
